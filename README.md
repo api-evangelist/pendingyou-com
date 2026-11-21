@@ -1,4 +1,4 @@
-# pendingyou-com
+# Pending You
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pendingyou-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pendingyou.com/
+Pending You is an AI‑assistant platform that centralises all of your AI‑driven workflows in one place. Users can ask questions, receive answers on phone or desktop, and integrate responses into their own assistants. The service promises a unified hub for AI prompts, answers, and management, targeting both personal and enterprise productivity.
+
+**Areas:** Company · AI · Assistant · Productivity · Platform
+
+## Pending You on APIs.io
+
+Everything profiled for Pending You is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pendingyou-com/](https://apis.io/providers/pendingyou-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Pending You Person API](https://apis.io/apis/pendingyou-com/pending-you-person-api/) — API for managing a user's cards, assistants, and presence.
+- [Pending You person API V1 API](https://apis.io/apis/pendingyou-com/pending-you-person-api-v1-api/) — The person API lets an app act as the person who signs it in: list the cards their assistants ask them, show one, answer it, write to its assistant, put it…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AnswerRequest](https://apis.io/schemas/pendingyou-com/pendingyou-com-answer-request/)
+- [ClientConfig](https://apis.io/schemas/pendingyou-com/pendingyou-com-client-config/)
+- [FocusRequest](https://apis.io/schemas/pendingyou-com/pendingyou-com-focus-request/)
+- [Me](https://apis.io/schemas/pendingyou-com/pendingyou-com-me/)
+- [NotifySettings](https://apis.io/schemas/pendingyou-com/pendingyou-com-notify-settings/)
+- [Snapshot](https://apis.io/schemas/pendingyou-com/pendingyou-com-snapshot/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Pendingyou Com Context](https://apis.io/jsonld/pendingyou-com/pendingyou-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Pending You API Rules](https://apis.io/rules/pendingyou-com/pendingyou-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pending You Domain Security](https://apis.io/security/pendingyou-com/pendingyou-com-domain-security/)
+- [Pending You Vulnerability Disclosure](https://apis.io/security/pendingyou-com/pendingyou-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Pending You Plans Pricing](https://apis.io/plans/pendingyou-com/pendingyou-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pendingyou.com/)
+- [Getting started](https://www.pendingyou.com/onboarding)
+- [API reference](https://www.pendingyou.com/docs/api)
+- [Pricing](https://www.pendingyou.com/pricing)
+- [Support](https://www.pendingyou.com/help)
+- [Security](https://www.pendingyou.com/security)
+- [Terms of service](https://www.pendingyou.com/terms)
+- [Privacy policy](https://www.pendingyou.com/privacy)
+- [GitHub](https://github.com/recordplane)
+
+## API Evangelist rating
+
+**Kin Score 48.7** — developing · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 50.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 51.5 |
+
+**Agent readiness 32.7** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | derived (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pendingyou-com/](https://apis.io/providers/pendingyou-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pending You: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pendingyou-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
